@@ -23,5 +23,9 @@ public class Main {
 
     }
 
+    public static void testMethodForGit(){
+	System.out.println("Hello Git !");
+    }
+
 
 }
